@@ -1,4 +1,4 @@
-# LiteBolgs
+# LiteBlogs
 
 ## getting started
 
